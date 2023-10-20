@@ -1,0 +1,11 @@
+.nav-hero-container {
+  height: 100vh;
+}
+
+.hero {
+  height: calc(100% - 122px);
+  background-image: url("../images/hero-image.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
